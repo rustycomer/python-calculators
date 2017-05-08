@@ -17,3 +17,6 @@ def main(account):
         account = calculate(account)
         account = tax(account)
     print("At the end of Year " + str(year) + " you will have: $" + str(account))
+
+
+main(response)

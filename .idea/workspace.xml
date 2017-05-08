@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b045db1-7331-4ed2-be7e-765386a7b5f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stock-strategy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stock-strategy.py" afterPath="$PROJECT_DIR$/stock-strategy.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stock-profit.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stock-profit.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stock-profit.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
@@ -25,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stock-strategy.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stock-strategy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stock-strategy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -221,18 +220,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stock-profit.py">
+    <entry file="file://$PROJECT_DIR$/stock-strategy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock-strategy.py">
+    <entry file="file://$PROJECT_DIR$/stock-profit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
